@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jacq\\filesilo\\": "src/" 
+            "Jacq\\PathSilo\\": "src/" 
         }
     }
 }
